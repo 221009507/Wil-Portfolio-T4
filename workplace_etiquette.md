@@ -1,7 +1,7 @@
 # Workplace Etiquette — Evidence & Reflection
 
 ## Evidence
-- [Professional Behavior Certificate or Screenshot](./artifacts/workplace_etiquette_certificate.png)
+- [Professional Behavior Certificate or Screenshot](./artifacts/businesscommunication.png)
 - [Class Notes or Screenshot of Work Readiness Lesson](./artifacts/workplace_etiquette_lesson.png)
 - Screenshot of online participation (if applicable).
 
