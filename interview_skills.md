@@ -15,9 +15,8 @@ My goal was to understand how to apply professional interview etiquette, prepare
 From the lessons, I learned a few tips for future professional interviews:
 - Arrive 10–15 minutes early and never be late.  
 - Dress appropriately and maintain good personal hygiene.  
-- Be polite to everyone, make eye contact, smile, and maintain positive body language.  
 - Speak clearly and confidently, avoiding filler words or mumbling.  
-- Always thank the interviewer at the end and prepare a few questions to ask.  
+
 
 For phone and video interviews, I learned to ensure good lighting, a plain background, and to look directly into the camera when speaking to appear confident and engaged.  
 
@@ -26,7 +25,7 @@ I also discovered a few key steps to prepare for any interview:
 - Know why I want the job, be able to explain why I want the job and what motivates me.  
 - Know my achievements, problem-solving experiences.
 
-These exercises helped me improve how I organize my answers and respond with confidence.
+These exercises helped me improve how I prepare for interviews
 
 **Result:**  
 Through this experience, I developed strong interview skills and learned how to prepare effectively for any type of interview.  
