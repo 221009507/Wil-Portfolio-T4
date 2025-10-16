@@ -6,7 +6,7 @@
 ## Reflection (STAR)
 
 **Situation:**  
-During the Term 4 Work Readiness program, I participated in lessons about Interview Skills and Etiquette. These sessions focused on how to prepare for interviews, present myself professionally, and communicate with confidence. Job interviews can be stressful, but I learned that interviewing is a skill that can be practiced and improved over time.
+During the Term 4 Work Readiness program, I participated in lessons about Interview Skills and Etiquette. These sessions focused on how to prepare for interviews, present myself professionally, and communicate with confidence. 
 
 **Task:**  
 My goal was to understand how to apply professional interview etiquette, prepare for interview questions, and build confidence in presenting my strengths clearly. I also needed to learn strategies for both in-person and virtual interviews.
@@ -25,7 +25,7 @@ I also discovered a few key steps to prepare for any interview:
 - Know why I want the job, be able to explain why I want the job and what motivates me.  
 - Know my achievements, problem-solving experiences.
 
-These exercises helped me improve how I prepare for interviews
+These exercises helped me improve how I prepare for interviews.
 
 **Result:**  
 Through this experience, I developed strong interview skills and learned how to prepare effectively for any type of interview.  
