@@ -1,8 +1,11 @@
 # E-Portfolio — Work Readiness Module  
 ##  About Me
 **Name:** Rethabile Kwatsha 221009507 
+
 **Course:** Diploma in Information and Communications Technology (Final Year)  
+
 **Modules:** Project Management, Applications Development (Theory & Practice), Information Systems, Project and Project Presentation
+
 **Individual Project:** *24-hour Security Tracking Website* — a web-based system to manage alerts and enhance safety monitoring.  
 
 ## Overview
