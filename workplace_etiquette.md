@@ -19,9 +19,9 @@ Here’s what I practiced:
 - Maintaining ethical behavior by following rules, avoiding dishonesty, and using digital resources responsibly.  
 - Applying the **5 Cs** of workplace success — Critical Thinking, Creative Thinking, Communication, Collaboration, and Citizenship in my daily interactions and teamwork.  
 
-
 **Result:**  
 By applying these professional behaviors, I’ve grown more confident in how I present myself in formal and informal work settings. I now understand that professionalism is not only about appearance it’s about respect, accountability, ethics, and a positive attitude.  
 This knowledge will help me transition smoothly into the professional world and maintain a good reputation in my future ICT career.
 
-
+## Summary
+I learned that professionalism is the key to workplace success.  
