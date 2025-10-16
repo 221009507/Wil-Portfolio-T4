@@ -1,6 +1,8 @@
 # Mock Interview — Evidence & Reflection
 
 ## Evidence
+- [Mock Interview Submission Sheet](./artifacts/mock_interview_submission.png)
+- [Mock Interview Recording](./artifacts/mock_interview_video.mp4)
 - [Mock Interview Screenshot or Feedback Notes](./artifacts/mock_interview_screenshot.png)
 - Screenshot or document showing participation and feedback from the mock interview session.
 
