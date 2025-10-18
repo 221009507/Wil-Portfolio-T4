@@ -8,7 +8,7 @@
 ## Reflection (STAR)
 
 **Situation:**  
-As part of the Term 4 Work Readiness program, I participated in a mock interview exercise designed to simulate a real-life job interview experience. The purpose of this activity was to apply what I had learned from the Interview Skills module including interview etiquette, tone, and confidence.
+As part of the Term 4 Work Readiness program, I participated in a mock interview exercise designed to simulate a real life job interview experience. The purpose of this activity was to apply what I had learned from the Interview Skills module including interview etiquette, tone, and confidence.
 
 **Task:**  
 My goal was to demonstrate professional behavior, communication skills, and interview readiness. I needed to prepare responses using the STAR method, present myself confidently, and show I could handle typical interview questions under pressure.
