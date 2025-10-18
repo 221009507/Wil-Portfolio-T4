@@ -21,7 +21,7 @@ The module also introduced professional online communication, where I learned th
 
 **Result:**  
 I gained a strong understanding of how to communicate effectively in professional environments both in writing and online.  
-This knowledge has strengthened my professionalism and prepared me for real-world workplace communication.
+This knowledge has strengthened my professionalism and prepared me for real world workplace communication.
 
 
 ## Summary:
