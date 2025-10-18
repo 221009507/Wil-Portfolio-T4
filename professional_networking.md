@@ -19,7 +19,7 @@ I will then start connecting with classmates, lecturers, and professionals in th
 Throughout this process, I will apply the principles learnt from the networking lessons which are building genuine/mutually beneficial relationships and maintaining consistency by staying active online and engaging respectfully.
 
 **Result:**  
-By practicing networking both online and in person, I developed stronger communication and relationship-building skills, I realized that networking is not just about finding opportunities but also about creating value for others.  
+By practicing networking both online and in person, I developed stronger communication and relationship building skills, I realized that networking is not just about finding opportunities but also about creating value for others.  
 I am building a small but growing professional network on LinkedIn that will includee students, mentors, and ICT professionals. 
 
 ## Summary
