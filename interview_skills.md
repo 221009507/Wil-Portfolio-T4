@@ -9,7 +9,7 @@
 During the Term 4 Work Readiness program, I participated in lessons about Interview Skills and Etiquette. These sessions focused on how to prepare for interviews, present myself professionally, and communicate with confidence. 
 
 **Task:**  
-My goal was to understand how to apply professional interview etiquette, prepare for interview questions, and build confidence in presenting my strengths clearly. I also needed to learn strategies for both in-person and virtual interviews.
+My goal was to understand how to apply professional interview etiquette, prepare for interview questions, and build confidence in presenting my strengths clearly. I also needed to learn strategies for both in person and virtual interviews.
 
 **Action:**  
 From the lessons, I learned a few tips for future professional interviews:
